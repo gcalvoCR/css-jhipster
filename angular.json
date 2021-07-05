@@ -109,6 +109,7 @@
   },
   "defaultProject": "styling",
   "cli": {
+    "analytics": false,
     "packageManager": "npm"
   }
 }
